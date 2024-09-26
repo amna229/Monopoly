@@ -1,5 +1,7 @@
 package edu.ncsu.monopoly;
-//I have added a commentì
+
+//hoy es d√≠a 26 de septiembre de 2024
+
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
