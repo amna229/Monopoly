@@ -2,6 +2,8 @@ package edu.ncsu.monopoly;
 
 //hoy es día 26 de septiembre de 2024
 
+//otro cambio
+
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
